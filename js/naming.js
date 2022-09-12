@@ -3,7 +3,8 @@
 
 /*var pet = 'gatto';
 var Pet = 'cane';*/
-
+let mioPet = "crocodile";
+console.log(mioPet);
 
 var petPreferito = 'criceto';
 var PetPreferitouno = 'coniglio';
